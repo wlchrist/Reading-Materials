@@ -1,4 +1,4 @@
-# reading-materials
+# Reading-Materials
 ## Description:
 Compiled list of useful links and readings for my personal enjoyment and self actualization. Most of the links below are in no specific order.
 
