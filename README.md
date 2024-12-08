@@ -1,13 +1,15 @@
 # reading-materials
-compiled list of useful links and readings
+## Description:
+Compiled list of useful links and readings for my personal enjoyment and self actualization. Most of the links below are in no specific order.
 
-Swift
-  [Sending email in SwiftUI](https://softwareanders.com/swiftui-email-a-complete-guide/)
+# Computer Science and Software Engineering
+## Languages
+### Swift
+  [Sending emails in SwiftUI](https://softwareanders.com/swiftui-email-a-complete-guide/)
   [Basic echo server in SwiftNIO](https://github.com/mattpaletta/swift-nio-echo-server/blob/master/Sources/basic-client/Basic-Client.swift)
-
-Other
+  [Navigation Link](https://www.hackingwithswift.com/quick-start/swiftui/displaying-a-detail-screen-with-navigationlink)
+  [Navigation Destination](https://www.hackingwithswift.com/books/ios-swiftui/handling-navigation-the-smart-way-with-navigationdestination)
+### Whitepapers
   [.CFF file documentation and proposal](https://ieeexplore.ieee.org/document/6246644/versions#versions)
-  
-[Navigation Link](https://www.hackingwithswift.com/quick-start/swiftui/displaying-a-detail-screen-with-navigationlink)
-		[Navigation Destination](https://www.hackingwithswift.com/books/ios-swiftui/handling-navigation-the-smart-way-with-navigationdestination)
-		[Official Doc](https://developer.apple.com/documentation/swiftui/view/navigationdestination(for:destination:)) 
+### Misc
+  [Martin Fowler's Blog](https://martinfowler.com/)
