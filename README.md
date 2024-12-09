@@ -13,3 +13,7 @@ Compiled list of useful links and readings for my personal enjoyment and self ac
   [.CFF file documentation and proposal](https://ieeexplore.ieee.org/document/6246644/versions#versions)
 ### Misc
   [Martin Fowler's Blog](https://martinfowler.com/)
+
+# Books
+## Sources
+  [Anna's Archive](https://annas-archive.org/) 
