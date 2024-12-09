@@ -17,6 +17,9 @@ Compiled list of useful links and readings for personal enrichment. Most of the 
 # Books
 ## Sources
   [Anna's Archive](https://annas-archive.org/)
+# Writing
+## Style Guides
+  [Kansas City Star: Style Guide](https://www.kansascity.com/entertainment/books/article10632713.ece/BINARY/The%20Star%20Copy%20Style.pdf)
 
 # Investing
 ## Retirement
